@@ -1,4 +1,4 @@
-# Self-Balancing Robot
+# self-balancing-robot
 
 > 🚧 **Status: ongoing project.** This robot is actively being developed and tuned — expect frequent changes to the firmware, control loop, and hardware as things get refined.
 
